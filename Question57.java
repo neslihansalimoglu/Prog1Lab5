@@ -56,6 +56,4 @@ return a.getCoursegrade().equalsIgnoreCase(b.getCoursegrade());
     Question57 b = new Question57(" Programming ", " A ");
     System.out.println(a.equals(b));   
 	}
-
-
 }
